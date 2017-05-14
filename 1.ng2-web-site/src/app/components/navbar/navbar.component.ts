@@ -6,5 +6,5 @@ import { RouterModule } from "@angular/router";
   templateUrl: './navbar.component.html'
 })
 export class NavbarComponent {
-    projectName = 'Angular2 Website';
+    
 }
